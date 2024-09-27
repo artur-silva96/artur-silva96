@@ -15,10 +15,9 @@ Atualmente, estou mergulhando no universo de Python, Data Science e Machine Lear
 #### Tecnologias
 Aqui estão algumas das tecnologias que tenho aprendido e utilizado:
 
-* __Linguagens__: Python
+* __Linguagens__: Python, SQL
 * __Data Science__: Pandas, NumPy, Matplotlib, Seaborn
 * __Machine Learning__: Scikit-learn
-* __Versionamento__: Git, GitHub
-
+  
 ##### Conecte-se comigo
 🌐 [Linkedin](https://www.linkedin.com/in/artur-silva96/)
